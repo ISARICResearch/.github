@@ -37,7 +37,10 @@ See [BRIDGE](https://isaric-bridge.replit.app/) to easily build CRFs that suit y
 
 https://github.com/ISARICResearch/.github/assets/79586712/a3d61cb4-a375-4a7b-93ee-72f10e41dba9
 
-https://github.com/ISARICResearch/.github/assets/79586712/eaba7cc1-1163-470e-b2fe-c575a29672ac
+
+
+https://github.com/ISARICResearch/.github/assets/79586712/cee069a0-8eb4-49e4-8103-eb6c81769108
+
 
 
 ### 3. Visual Evidence & Research Tool for Exploration (VERTEX)
@@ -50,7 +53,7 @@ See [VERTEX](https://github.com/ISARICResearch/VERTEX) To download the code that
 
 
 
-https://github.com/ISARICResearch/.github/assets/79586712/91a74ec9-8c2a-436d-afd6-d1684f7fa268
+https://github.com/ISARICResearch/.github/assets/79586712/a7a91322-3f0d-4307-a65c-bfbe1a6b7b72
 
 
 
