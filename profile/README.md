@@ -28,6 +28,8 @@ See [BRIDGE](https://isaric-bridge.replit.app/) to easily build CRFs that suit y
 
 VERTEX is a web-based application designed to present graphs and tables based on relevant research questions that need to be quickly answered during an outbreak. VERTEX uses reproducible analytical pipelines. Currently, we have pipelines for identifying the spectrum of clinical features in a disease and determining risk factors for patient outcomes. New questions will be added by the ISARIC team and the wider scientific community, enabling the creation and sharing of new pipelines.
 
+See [VERTEX](https://github.com/ISARICResearch/VERTEX) To download the code that can be used for ARC-structured data visualization.
+
 ## Additional Services
 
 ### Data Management Services
