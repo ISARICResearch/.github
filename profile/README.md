@@ -10,6 +10,8 @@ Clinical data are the cornerstone of an evidence-based outbreak response, impact
 
 ISARIC has developed three open-access tools to address these requirements.
 
+![plot](https://github.com/ISARICResearch/.github/blob/main/profile/diagram.png)
+
 ## Tools
 
 ### 1. Analysis and Research Compendium (ARC)
