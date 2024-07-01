@@ -33,9 +33,6 @@ VERTEX is a web-based application designed to present graphs and tables based on
 See [VERTEX](https://github.com/ISARICResearch/VERTEX) To download the code that can be used for ARC-structured data visualization.
 
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png]
-(https://github.com/ISARICResearch/.github/blob/main/profile/ISARIC_platform1_.mp4)
-
 
 ## Additional Services
 
