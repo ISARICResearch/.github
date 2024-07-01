@@ -16,6 +16,8 @@ ISARIC has developed three open-access tools to address these requirements.
 
 ARC is a comprehensive machine-readable document in CSV format, designed for use in Clinical Report Forms (CRFs) during disease outbreaks. It includes a library of questions covering demographics, comorbidities, symptoms, medications, and outcomes. Each question is based on a standardized schema, has specific definitions mapped to controlled terminologies, and has built-in quality control. ARC is openly accessible, with version control via GitHub ensuring document integrity and collaboration.
 
+See [ARC](https://github.com/ISARICResearch/DataPlatform/tree/main/ARCH) to know more about out library of CRF questions.
+
 ### 2. BioResearch Integrated Data Tool GEnerator (BRIDGE)
 
 BRIDGE is a web-based application designed to operationalize ARC and edit any ISARIC CRF and tailor it to oubreaks particular context. By selecting and customizing clinical questions and ensuring necessary data points for each, BRIDGE automates the creation of Case Report Forms (CRFs) for each disease and specific research context. It generates the data dictionary and XML needed to create a REDCap database for capturing data in the ARC structure. Additionally, it produces paper-like versions of the CRFs and completion guides.
