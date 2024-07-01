@@ -20,7 +20,7 @@ ARC is a comprehensive machine-readable document in CSV format, designed for use
 
 BRIDGE is a web-based application designed to operationalize ARC and edit any ISARIC CRF and tailor it to oubreaks particular context. By selecting and customizing clinical questions and ensuring necessary data points for each, BRIDGE automates the creation of Case Report Forms (CRFs) for each disease and specific research context. It generates the data dictionary and XML needed to create a REDCap database for capturing data in the ARC structure. Additionally, it produces paper-like versions of the CRFs and completion guides.
 
-See [BRIDGE](https://isaric-bridge.replit.app/) to easily build CRFs that suit your objectives, with an automated completion guide, REDCap data dictionary, and REDCap XML to launch your own database that corresponds with the CRF. Aditionally see [BRIDGE GitHub](https://github.com/ISARICResearch/DataPlatform/tree/main/BRIDGE)
+See [BRIDGE](https://isaric-bridge.replit.app/) to easily build CRFs that suit your objectives, with an automated completion guide, REDCap data dictionary, and REDCap XML to launch your own database that corresponds with the CRF. Aditionally see [BRIDGE GitHub](https://github.com/ISARICResearch/DataPlatform/tree/main/BRIDGE) to check the code. 
 
 ### 3. Visual Evidence & Research Tool for Exploration (VERTEX)
 
