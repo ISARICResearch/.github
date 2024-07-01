@@ -20,17 +20,38 @@ ARC is a comprehensive machine-readable document in CSV format, designed for use
 
 See [ARC](https://github.com/ISARICResearch/DataPlatform/tree/main/ARCH) to know more about out library of CRF questions.
 
+
+
+https://github.com/ISARICResearch/.github/assets/79586712/e6aa169c-9c83-4c6e-85e1-30ea595af693
+
+
+
 ### 2. BioResearch Integrated Data Tool GEnerator (BRIDGE)
 
 BRIDGE is a web-based application designed to operationalize ARC and edit any ISARIC CRF and tailor it to oubreaks particular context. By selecting and customizing clinical questions and ensuring necessary data points for each, BRIDGE automates the creation of Case Report Forms (CRFs) for each disease and specific research context. It generates the data dictionary and XML needed to create a REDCap database for capturing data in the ARC structure. Additionally, it produces paper-like versions of the CRFs and completion guides.
 
 See [BRIDGE](https://isaric-bridge.replit.app/) to easily build CRFs that suit your objectives, with an automated completion guide, REDCap data dictionary, and REDCap XML to launch your own database that corresponds with the CRF. Aditionally see [BRIDGE GitHub](https://github.com/ISARICResearch/DataPlatform/tree/main/BRIDGE) to check the code. 
 
+
+
+
+https://github.com/ISARICResearch/.github/assets/79586712/a3d61cb4-a375-4a7b-93ee-72f10e41dba9
+
+https://github.com/ISARICResearch/.github/assets/79586712/eaba7cc1-1163-470e-b2fe-c575a29672ac
+
+
 ### 3. Visual Evidence & Research Tool for Exploration (VERTEX)
 
 VERTEX is a web-based application designed to present graphs and tables based on relevant research questions that need to be quickly answered during an outbreak. VERTEX uses reproducible analytical pipelines. Currently, we have pipelines for identifying the spectrum of clinical features in a disease and determining risk factors for patient outcomes. New questions will be added by the ISARIC team and the wider scientific community, enabling the creation and sharing of new pipelines.
 
 See [VERTEX](https://github.com/ISARICResearch/VERTEX) To download the code that can be used for ARC-structured data visualization.
+
+
+
+
+
+https://github.com/ISARICResearch/.github/assets/79586712/91a74ec9-8c2a-436d-afd6-d1684f7fa268
+
 
 
 
