@@ -68,8 +68,9 @@ ISARIC can provide guidance and files to launch your own data management system 
 
 ISARIC has a central data pipeline and analytic tools with dashboards, models, and descriptive statistic outputs. Contact us to see what we have that fits your needs.
 
-
-
 ---
+
+Licensed under [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/") International License by [ISARIC](https://isaric.org/) on behalf of Oxford University.
+
 
 
