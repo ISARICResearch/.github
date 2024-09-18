@@ -70,7 +70,7 @@ ISARIC has a central data pipeline and analytic tools with dashboards, models, a
 
 ---
 
-Licensed under [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/") International License by [ISARIC](https://isaric.org/) on behalf of Oxford University.
+Licensed under [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/) International License by [ISARIC](https://isaric.org/) on behalf of Oxford University.
 
 
 
