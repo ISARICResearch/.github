@@ -45,9 +45,7 @@ https://github.com/ISARICResearch/.github/assets/79586712/cee069a0-8eb4-49e4-810
 
 ### 3. Visual Evidence & Research Tool for Exploration (VERTEX)
 
-VERTEX is a web-based application designed to present graphs and tables based on relevant research questions that need to be quickly answered during an outbreak. VERTEX uses reproducible analytical pipelines. Currently, we have pipelines for identifying the spectrum of clinical features in a disease and determining risk factors for patient outcomes. New questions will be added by the ISARIC team and the wider scientific community, enabling the creation and sharing of new pipelines.
-
-See [VERTEX](https://github.com/ISARICResearch/VERTEX) To download the code that can be used for ARC-structured data visualization.
+VERTEX is a web-based application designed to present graphs and tables based on relevant research questions that need to be quickly answered during an outbreak. VERTEX uses reproducible analytical pipelines. Currently, we have pipelines for identifying the spectrum of clinical features in a disease and determining risk factors for patient outcomes. New questions will be added by the ISARIC team and the wider scientific community, enabling the creation and sharing of new pipelines. See [VERTEX Tutorial](https://isaricresearch.github.io/Training/vertex_starting) to learn how to use the tool. Additionally, see [VERTEX GitHub](https://github.com/ISARICResearch/VERTEX) To download the code that can be used for ARC-structured data visualization.
 
 
 
